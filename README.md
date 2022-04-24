@@ -14,6 +14,7 @@ Password Locker Application
 
 ## Prerequisites
 
+- An internet connection is important
 - python3.8
 - pip
 - pyperclip
