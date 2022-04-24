@@ -8,7 +8,7 @@ Password Locker Application
 
 # Project Description
 
-- This is an application that help user manage their passwords and even generate new passwords .
+- This is an application that helps users manage their passwords and even generate new passwords .
 
 # Installation / Setup instruction
 
